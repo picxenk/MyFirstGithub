@@ -9,3 +9,8 @@
  
  * https://github.com
  * 제가 검색할 때 자주 쓰는 사이트는 [구글](https://google.com)입니다.
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
